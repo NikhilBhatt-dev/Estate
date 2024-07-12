@@ -1,0 +1,318 @@
+body{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box; 
+}
+
+
+header{
+    width:100%;
+    height:77px;
+    border:2px solid black;
+    box-sizing: border-box;
+    border-radius:18px 18px 0 0;
+    background-color: (248, 246, 243);
+  
+}
+
+nav{
+    float:right;
+    height:50px;
+    width:70%;
+    
+    margin:25px 0 0 0;
+    box-sizing:border-box;
+}
+.menu-bar{
+    float:left;
+    list-style-type:none;
+    margin:5px 16px 4px 0;
+    box-sizing:border-box;
+    
+}
+.menu-item{
+    text-decoration:none;
+    color:black;   
+    font-family: sans-serif; 
+    font-size: 15px;
+}
+
+/*menu end*/
+
+section{
+ display: flex;
+position: absolute;
+width: 100%;
+height: 900px;
+background-color:#122B49;
+}
+
+/*upload in 4 simple step*/
+.sell{
+    position: absolute;
+    width: 100%;
+    height: 166px;
+    left: 116px;
+    top: 38px;
+    border:0px solid white;
+    
+}
+
+.Rent-your-Property{
+    font-size:40px;
+    color:white;
+   
+    margin:13px 0 0 0;
+}
+.ready-to-sell{
+    color:rgba(255, 255, 255, 0.826);
+    margin:12px 0 0 0px;
+}
+
+.Property{
+    position:relative; 
+    width: 316px;
+    height: 366px;
+    left: 186px;
+    top: 205px;
+    border:0px solid white;
+  
+}
+
+.upload{
+    color:white;
+    font-size:21px;
+
+}
+ 
+.add{
+    color:white;
+    margin:0px 2px 2px 2px;
+
+}
+
+.vox{
+   
+    margin:260px auto;
+    margin-left:-568px;
+    width:565px;
+    height:336px;
+    
+    border:1px solid white;
+    box-sizing: border-box;
+    border-radius:1px;
+    background-color: white;
+    
+    overflow-y: scroll;
+  
+    
+
+
+}
+
+.start{
+    width:45%;
+    height:69px;
+    border:2px solid rgb(237, 229, 229);
+    box-sizing: border-box;
+    border-radius:18px 18px 0 0 ;
+    background-color:rgb(248, 246, 243);
+    overflow-y:hidden;
+    overflow-y: hidden;
+    margin:190px 2px 0 340px;
+    position: relative;
+   
+    
+   
+    
+}
+
+.lets{
+    font-family:sans-serif;
+    font-size:21px;
+    color:#010912;
+   text-align:center; 
+   margin:21px 155px 1px 1px;
+ 
+}
+
+.trick{
+    color:red;
+    margin:40px 1px  1px 30px;
+    position: relative;
+}
+
+.am{
+    position:relative;
+    margin:40px 0 6px 70px;
+    font-size:20px;
+    font-family:sans-serif;
+}
+font{
+    color:red;
+
+}
+
+
+label{
+    font-family:sans-serif;
+    font-size:20px;
+    float:right;
+    margin-right:110px;
+}
+
+.naam{
+    position:relative;
+    margin:88px 0 6px 70px;
+    font-size:20px;
+    font-family:sans-serif;
+}
+
+
+.name{
+    float:left;
+    margin-left:90px;
+}
+.ur-name{
+    width:180%;
+    height:90%;
+    padding:4px;
+    border-color:2px solid grey;
+  
+}
+
+
+form{
+    margin-bottom:80px;
+}
+
+.help{
+ 
+    width:100%;
+    height:69px;
+    border:2px solid white;
+    box-sizing: border-box;
+    border-radius:0 0 18px 18px ;
+    background-color:rgb(248, 246, 243);
+    margin-top:190px;
+}
+
+
+
+.need{
+    font-family:sans-serif;
+    font-size:15px;
+    color:#6c6f72;
+    float:left;
+    margin:30px 0 0 20px;
+
+}
+
+.number{
+    color:#010912;
+    
+}
+
+button{
+    height:40px;
+    width:90px;
+    float:right;
+    margin:16px 10px 0px 0;
+    
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: #010912;
+    box-sizing: border-box;
+  
+}
+
+/*otp-box*/
+
+.fox{
+position: absolute;
+margin:274px auto;
+margin-left:640px;
+width:560px;
+height:316px;
+
+border:1px solid white;
+box-sizing: border-box;
+border-radius:0;
+background-color: white;
+
+
+
+}
+
+
+a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    padding:4px;
+    font-size: 18px;
+    font-family:sans-serif;
+}
+
+.lt{
+    width:44.6%;
+    height:69px;
+    border:2px solid rgb(237, 229, 229);
+    box-sizing: border-box;
+    border-radius:18px 18px 0 0 ;
+    background-color:rgb(248, 246, 243);
+    overflow-y:hidden;
+    overflow-y: hidden;
+    margin:205px 2px 0 324px;
+    position: relative;
+
+}
+
+.otp{
+    position:relative;
+    margin:30px 0 38px 68px;
+    font-size:16px;
+    font-family:sans-serif;
+    font-size: 17px;
+
+}
+
+.chamge{
+    color:#010912;
+    text-decoration:underline;
+    float:right;
+    margin:0 90px 0 0;
+    font-size:13px;
+
+}
+
+.u-me{
+    padding:8px;
+    width:160%;
+    margin-top:-30px;
+    margin-left:-19px;
+} 
+
+
+.send{
+    
+    color:black;
+    margin-top: 40px;
+    font-size: 15px;
+
+}
+
+.help-2{
+    position: absolute;
+    width:560PX;
+    height:69px;
+    border:2px solid white;
+    box-sizing: border-box;
+    border-radius:0px 0px 18px 18px;
+    background-color:floralwhite;
+    margin:39px 10px 0 0px;
+}
+
+
+
+/*property*/
